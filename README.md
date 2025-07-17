@@ -6,7 +6,7 @@ Follow these steps to install and set up the project on your local machine.
 
 ```bash
 1️⃣ Clone the repository
-git clone [https://github.com/elshadaysimamora/personas-based-ai-115](https://github.com/elshadaysimamora/LPPM-TASI-2425-115)
+git clone https://github.com/elshadaysimamora/LPPM-TASI-2425-115
 
 2️⃣ Install PHP dependencies using Composer:
 composer install
